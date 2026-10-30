@@ -1,0 +1,7 @@
+# Veri setlerini yoksay
+imagewoof200/
+*.zip
+
+# Python sanal ortam klasörlerini yoksay
+.venv/
+__pycache__/
